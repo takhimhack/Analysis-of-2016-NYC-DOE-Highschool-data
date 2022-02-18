@@ -1,5 +1,5 @@
 # Please read report.pdf for a more in-depth analysis 
-### Project [Notebook](https://nbviewer.org/github/takhimhack/Analysis-of-2016-NYC-DOE-Highschool-data/blob/main/takhimh_mmraja.ipynb#phasethree).
+### Project [Notebook](https://nbviewer.org/github/takhimhack/Analysis-of-2016-NYC-DOE-Highschool-data/blob/main/takhimh_mmraja.ipynb).
 **Abstract**
 
 Yearly, the statistics released for high school graduation and college enrolment in New
