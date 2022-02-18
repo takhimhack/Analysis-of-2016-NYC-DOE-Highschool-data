@@ -1,4 +1,4 @@
-# Please read [report.pdf](https://github.com/takhimhack/Analysis-of-2016-NYC-DOE-Highschool-data/blob/main/report.pdf).for a more in-depth analysis 
+# Please read [report.pdf](https://github.com/takhimhack/Analysis-of-2016-NYC-DOE-Highschool-data/blob/main/report.pdf)for a more in-depth analysis 
 ### Project [Notebook](https://nbviewer.org/github/takhimhack/Analysis-of-2016-NYC-DOE-Highschool-data/blob/main/takhimh_mmraja.ipynb).
 **Abstract**
 
