@@ -1,0 +1,1 @@
+{"columns": ["Borough", "zipcode", "City", "highschool_graduation_rate", "Median income", "IsExceedingBoroughHighSchoolGraduationRate", "IsExceedingBoroughCollegeEnrollmentRate", "Latitude", "Longitude"], "data": [["Brooklyn", 11215, " BROOKLYN", 73.0, 170511, true, false, 40.6693177, -73.97864109999999]]}
